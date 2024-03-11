@@ -1,0 +1,3 @@
+Estos son dos programas realizados como trabajos finales de semestre (2048 y  mini file system) y 
+un programa de manejo de cadenas.
+El archivo PDF Laboratorio E.D.A posee los comandos que podemos utilizar en el mini file system y explicacion de los mismos
